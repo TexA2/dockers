@@ -1,0 +1,26 @@
+{
+	"type" : "Standard",
+	"core" : true,
+	"name" : "Cirno",
+	"icon" : ":/CC/plugin/qCirnoPlugin/images/cirno.png",
+	"description": "Gistogram for cloud",
+	"authors" : [
+    {
+      "name": "(FSUE NAMI)"
+    }
+	],
+	"references" : [
+    {
+      "text": "eererer",
+      "url": "erererer"
+    },
+		{
+			"text" : "Goida!",
+			"url" : "erererer"
+		},
+    {
+      "text": "Documentation",
+      "url": "erererer"
+    }
+	]
+}

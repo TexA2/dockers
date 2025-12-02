@@ -1,0 +1,36 @@
+{
+    "dataset_config": {
+        "train_data_path": "data/training",
+        "test_data_path": "data/testing",
+        "method": "radius_search",
+        "scales": [2, 5, 16]
+    },
+
+    "labels": {
+        "ground": 1000,
+        "car": 1001,
+        "track": 1002,
+        "buildings": 1003,
+        "tree": 1004,
+        "unclassified": 1005
+    },
+
+    "label_map": {
+        "0": "1000",
+        "1": "1001",
+        "2": "1002",
+        "3": "1003",
+        "4": "1004",
+        "5": "1005"
+    },
+
+    "color_map": {
+        "0": [1.0, 1.0, 1.0],
+        "1": [1.0, 0.0, 0.0],
+        "2": [1.0, 1.0, 0.0],
+        "3": [0.0, 0.0, 1.0],
+        "4": [0.0, 1.0, 0.0],
+        "5": [0.5, 0.5, 0.5]
+    }
+}
+
